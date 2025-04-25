@@ -53,3 +53,4 @@ The features (X) are separated from the target (y), and the data is split into t
 A Decision Tree Classifier is trained on the data and used for making predictions based on user inputs through the Streamlit interface. The application features an easy-to-use UI, where users can input customer details such as age, job type, credit amount, loan duration, housing status, and account categories. When the ‘Predict Credit Risk’ button is clicked, the application processes the inputs, scales them, and feeds them into the trained model for prediction.
 
 Finally, the predicted credit risk (either ‘good’ or ‘bad’) is displayed on the interface, informing the user of the customer's credit risk classification.
+[Additionally the Committed App.py is also given in the side bar only for reference as this will be automatically created when streamlit.ipynb is executed]
